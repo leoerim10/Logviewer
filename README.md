@@ -17,7 +17,7 @@ This project is a Bachelor Thesis at HTW Berlin, WiSe 2022/23 by Sameer Dhimal. 
 ### Installation
 - Clone this repository:
 ```
-git clone https://github.com/your-username/Logviewer.git
+git clone https://github.com/leoerim10/Logviewer.git
 ```
 
 - Install the dependencies for both the frontend and backend:
