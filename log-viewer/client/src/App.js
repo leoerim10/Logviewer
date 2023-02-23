@@ -8,6 +8,11 @@ import Navbar from './components/Navbar';
 import Paper from '@mui/material/Paper';
 import Box from '@mui/material/Box';
 
+/**
+ * The main component for the React app.
+ *
+ * @returns {JSX.Element} The rendered JSX element.
+ */
 function App() {
      const [answer, setAnswer] = useState(null); //stores the provided log data
 
